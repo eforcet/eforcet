@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Etienne A Forcet</h1>
-<h3 align="center">A passionate backend developer from Tampa, FL</h3>
+<h1 align="center">Hi, I'm Etienne A Forcet</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on techincal challenges & personal projects. 
 
-- 🌱 I’m currently learning **Ruby/Rails/SQL**
+- 🌱 I’m currently learning **Ruby/Rails/SQL/Python**
 
 - 💬 Ask me about **Ruby/Rails/SQL**
 
