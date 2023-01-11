@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Etienne A Forcet</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">A Passionate Full-Stack Developer based in Montreal. Dual Citizen 🇨🇦/🇺🇸</h3>
 
 - 🔭 I’m currently working on techincal challenges & personal projects. 
 
